@@ -4,7 +4,7 @@
 # TELEGRAM BOT SETTINGS
 # -----------------------------
 BOT_TOKEN = "8050343550:AAFSR2Ds3lhAMbS3a8TLvOmihrWYVleyGJU"  # Replace with your bot token
-OWNER_ID = 8293633911  # Your Telegram ID (for admin commands, optional)
+OWNER_ID = "8293633911"  # Your Telegram ID (for admin commands, optional)
 
 # -----------------------------
 # OPENAI API SETTINGS
